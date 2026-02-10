@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(32, 31, 31);
+}
+.one{
+    position:relative;
+    width: 300px;
+    height: 150px;
+    border: 0.3px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    margin-left: 37px;
+    top: 20px;
+    z-index: 1;
+    background-color: rgba(179, 195, 247, 0.4);
+}
+.two{
+    position: relative;
+    width: 300px;
+    height: 150px;
+    border: 0.3px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    margin-left: 37px;
+    top: 70px;
+    z-index: 2;
+     background-color: rgba(179, 195, 247, 0.4);
+}
+.three{
+    position: relative;
+    width: 300px;
+    height: 150px;
+    border: 0.3px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    margin-left: 37px;
+    z-index: 3;
+    top: 120px;
+     background-color: rgba(179, 195, 247, 0.4);
+}
+.four{
+    position:relative;
+    width: 300px;
+    height: 150px;
+    border: 0.3px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    margin-left: 37px;
+    z-index: 4;
+    top: 170px;
+     background-color: rgb(179, 195, 247, 0.4);
+}
+
+h4{
+    font-size: 40px;
+    background-color: rgba(218, 224, 243, 0.4);
+    width: 230px;
+    border-radius: 5px;
+    font-family:Britannic ;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+a{
+    position: relative;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px 15px;
+    border-radius: 10px;
+    left: 120px;
+    top: 50px;
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+h2{
+    position: relative;
+    background-color: rgba(218, 224, 243, 0.4);
+    font-family:Britannic ;
+    font-size: 40px;
+    top: 20px;
+    left: 50px;
+    width: 203px;
+    border-radius: 5px;
+}
+h3{
+    
+    position: relative;
+    background-color: rgba(218, 224, 243, 0.4);
+    font-family:Britannic ;
+    font-size: 36px;
+    left: 35px;
+    top: 20px;
+    width: 247px;
+    border-radius: 5px;
+}
+h5{
+    
+    position: relative;
+    background-color: rgba(218, 224, 243, 0.4);
+    font-family:Britannic ;
+    font-size: 35px;
+    top: 20px;
+    left: 28px;
+    width: 250px;
+    border-radius: 5px;
+}
+H6{
+    
+    position: relative;
+    background-color: rgba(218, 224, 243, 0.4);
+    font-family:Britannic ;
+    top: 70px;
+    font-size: 15px;
+}
